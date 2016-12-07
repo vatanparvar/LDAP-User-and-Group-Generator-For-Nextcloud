@@ -1,4 +1,5 @@
 #!/bin/sh
+# @author Mehrdad Vatanparvar, m.vatanparvar@gmail.com
 
 ########
 ### This script will query users from AD and import them into OC
